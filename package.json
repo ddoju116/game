@@ -1,0 +1,8 @@
+{
+ "name": "hidden-garden",
+ "version": "1.0.0",
+ "private": true,
+ "description": "사진 속 숨은 사물을 찾는 정적 웹 게임",
+ "scripts": {"dev": "node server.cjs", "start": "node server.cjs", "test": "node --test tests/engine.test.cjs"},
+ "engines": {"node": ">=18"}
+}
